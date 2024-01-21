@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+  --d-blue: #2458FF;
+  --d-neon: #c0dde9;
+  --grey: #474747;
+  --border: #d3d3d3 !important;
+  --red: #d92629;
+  --l-orange: #ffb868;
+  --golden: #dfc059;
+  --r-blue: rgb(4,4,47);
+  --brown: rgb(155,25,24);
+  --aqua: #07727c;
+  --aqua-light: #adc3d6;
+}
+body{
+ background-color: #e2e3e5;;
+  width: 100%;
+  height: 100vh;
+  font-family: "Avenir LT Std 35", sans-serif;
+
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Times New Roman', Times, serif;
+}
